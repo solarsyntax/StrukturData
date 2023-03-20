@@ -2,7 +2,7 @@ package Modul.Modul_2;
 
 import java.util.ArrayList;
 
-public class Main {
+public class linkedList {
     public static void main(String[] args) {
         ArrayList<String> hewan = new ArrayList();
         ArrayList<String> deleteHewan = new ArrayList();
